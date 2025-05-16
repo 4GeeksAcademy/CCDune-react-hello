@@ -1,5 +1,3 @@
-import React from "react";
-
 //create the NavBar
 const NavBar = () => {
     return (
